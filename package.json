@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Sarah-McNeel/E-commerce-shopping#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mysql": "^2.18.1",
     "sequelize": "^6.3.5"
